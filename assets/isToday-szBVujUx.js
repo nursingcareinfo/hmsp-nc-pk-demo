@@ -1,0 +1,1 @@
+import{a0 as e,$ as s,a4 as n}from"./index-BxBWLUKF.js";function u(t){return e(t,Date.now())}function i(t,r,a){const[c,o]=s(a==null?void 0:a.in,t,r);return+n(c)==+n(o)}function m(t,r){return i(e(t,t),u(t))}export{m as i};
