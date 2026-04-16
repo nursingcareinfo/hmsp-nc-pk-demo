@@ -1,0 +1,1 @@
+import{Z as e,Y as s,a2 as n}from"./index-Cpiujtds.js";function u(t){return e(t,Date.now())}function i(t,a,r){const[c,o]=s(r==null?void 0:r.in,t,a);return+n(c)==+n(o)}function m(t,a){return i(e(t,t),u(t))}export{m as i};
